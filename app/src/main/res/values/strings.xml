@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BubbleTea</string>
+    <string name="KettleOn">Tap to turn on kettle</string>
+    <string name="KettleOn_Description">Kettle</string>
+
+    <string name="water_fill">Tap to fill water </string>
+    <string name="water_fill_Description">Empty cup</string>
+
+    <string name="add_tea">Tap to add tea </string>
+    <string name="add_tea_Description">water filled cup</string>
+
+    <string name="add_boba">Tap to add boba </string>
+    <string name="add_boba_Description">tea filled cup</string>
+
+    <string name="add_flavour">Tap to add flavour </string>
+    <string name="add_flavour_Description">boba and tea filled cup</string>
+
+    <string name="drink">Keep tapping to drink the bubble tea </string>
+    <string name="drink_Description">bubble tea filled cup</string>
+
+    <string name="empty">Oh no! We are out of boba :( . Time to make some more (Tap screen to restart) </string>
+    <string name="empty_Description">Empty cup</string>
+
+</resources>
